@@ -1,5 +1,5 @@
 Table of Contents
 <br>
-  Subnetting
+  <a href="https://github.com/DesignsMP/Lab_Reports/tree/master/Subnetting">Subnetting </a>
 <ol>
-  <li> <a href="https://github.com/DesignsMP/Lab_Reports/tree/master/Subnetting/Design%20Challenge">Design Challenge</li>
+  <li> <a href="https://github.com/DesignsMP/Lab_Reports/tree/master/Subnetting/Design%20Challenge">Design Challenge</a></li>
