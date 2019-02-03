@@ -1,2 +1,5 @@
-# Lab_Reports
-All lab reports taken in CMST 315
+Table of Contents
+<br>
+  Subnetting
+<ol>
+  <li> Design Challenge
