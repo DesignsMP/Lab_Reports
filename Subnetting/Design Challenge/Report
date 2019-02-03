@@ -1,11 +1,23 @@
 VLSM Design Challenge
-<ul>
-  <li>Objectives:
-  <li>Equipment List:
-  <li>Notes and Observations:
-  <li>Diagrams, flowchars, and figures:
-  <li>References:
-  <li>Questions:
-  <li>Conclusion and Reflection:
+  Objectives:
+    The objective for this lab was to understand how VLSM subnetting work when it came to organizing and 
+    utilizing all the available IP addresses when it came to distributing them out to companies in need of a network.
+    
+  Equipment List:
+    -pencil (to write down notes)
+    -paper (to store notes)
+    -google docs (to create summary sheets with group editing capabilities)
+    -google sheets (to create the routing table with group editing capabilities)
+    -draw.io (to create the VLSM diagram with group editing capabilities)
+    -basecamp
   
+  Notes and Observations:
+  
+  Diagrams, flowchars, and figures:
+  
+  References:
+  
+  Questions:
+  
+  Conclusion and Reflection:
   
