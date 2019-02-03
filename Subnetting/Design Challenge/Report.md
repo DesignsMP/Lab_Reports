@@ -7,12 +7,13 @@ VLSM Design Challenge
   Equipment List:
   <br>
   <ul>
-    <li>pencil (to write down notes)
-    <li>paper (to store notes)
-    <li>google docs (to create summary sheets with group editing capabilities)
-    <li>google sheets (to create the routing table with group editing capabilities)
-    <li>draw.io (to create the VLSM diagram with group editing capabilities)
-    <li>basecamp (to communicate with team members and to assign tasks)
+  <li>pencil (to write down notes)</li>
+    <li>paper (to store notes)</li>
+    <li>google docs (to create summary sheets with group editing capabilities)</li>
+    <li>google sheets (to create the routing table with group editing capabilities)</li>
+    <li>draw.io (to create the VLSM diagram with group editing capabilities)</li>
+    <li>basecamp (to communicate with team members and to assign tasks)</li>
+      </ul>
   
   Notes and Observations:
   <br>
