@@ -20,16 +20,22 @@ VLSM Design Challenge
   When we started this project we went through three different models before we decided on one that would provide enough addresses to 
 each company as well as keeping the amount of subnets at a minimum to prevent too much traffic. 
 <ol>
-<li>The first model was first split into two subnets. The first belonged entirely to the large company, the second subnet was split into four subnets. We kept a pattern of leaving subnet 0 empty, subnet 1 would belong to the next largest company, subnet 2 would be split into four more subnets, and subnet 3 would be left empty for future expansions. This pattern occured three times and provided each company with their own subnet.
-<li>The second model was similar to model one except for a few major differences. The major differences were the original IP was separated into four subnets rather than two to make room for more future expansions and each subnet used for the larger company was also the subnet separated into smaller subnets for the smaller companies. This model was ditched because at the time we could not figure out how to give the large companies the number of addresses the needed while still having enough left over for the smaller companies.
-<li>The third and final model was a combination of model 1 and model 2. We started with four subnets. We followed the same pattern as the smaller subnets from model 1 but we used it for all the subnets. Subnet 0 was empty, 1 for next largest company, 2 separated into four subnets for the smaller companies, 3 left empty for future expansion.
-  
+<li>The first model was first split into two subnets. The first belonged entirely to the large company, the second subnet was split into four subnets. We kept a pattern of leaving subnet 0 empty, subnet 1 would belong to the next largest company, subnet 2 would be split into four more subnets, and subnet 3 would be left empty for future expansions. This pattern occured three times and provided each company with their own subnet.</li>
+<li>The second model was similar to model one except for a few major differences. The major differences were the original IP was separated into four subnets rather than two to make room for more future expansions and each subnet used for the larger company was also the subnet separated into smaller subnets for the smaller companies. This model was ditched because at the time we could not figure out how to give the large companies the number of addresses the needed while still having enough left over for the smaller companies.</li>
+<li>The third and final model was a combination of model 1 and model 2. We started with four subnets. We followed the same pattern as the smaller subnets from model 1 but we used it for all the subnets. Subnet 0 was empty, 1 for next largest company, 2 separated into four subnets for the smaller companies, 3 left empty for future expansion.</li>
+  </ol>
   Diagrams, flowcharts, and figures:
-    <a href="https://github.com/DesignsMP/Lab_Reports/blob/master/Subnetting/Design%20Challenge/Final_design.png">Network Diagram
+  <br>
+    <a href="https://github.com/DesignsMP/Lab_Reports/blob/master/Subnetting/Design%20Challenge/Final_design.png">Network Diagram</a>
   
   References:
+  <br>
+    The only references we had with this lab was information given to us in class.<a>Lab_Worksheet</a>
   
   Questions:
+  <br>
+  A few things I am still confused on are
   
   Conclusion and Reflection:
-  
+  <br>
+  From this lab I found
