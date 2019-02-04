@@ -44,4 +44,4 @@ each company as well as keeping the amount of subnets at a minimum to prevent to
   </ol>
   Conclusion and Reflection:
   <br>
-  From this lab I found
+  From this lab I found out that subnetting is more complicated than I originally thought. I had never considered the possibility that you could take from one IP address and split it into smaller subnets in order to provide for multiple hosts. This is very beneficial when it comes to the limited amount of IP addresses available with IPv4 since it only has 32-bits. It is a great way to prolong our time until we have to switch to IPv6 which has 128-bits.
