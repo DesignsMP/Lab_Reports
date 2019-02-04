@@ -28,7 +28,7 @@ each company as well as keeping the amount of subnets at a minimum to prevent to
   <br>
   <ul>
     <li><a href="https://github.com/DesignsMP/Lab_Reports/blob/master/Subnetting/Design%20Challenge/Design_Notes.png">Prototype Designs</a></li>
-    <li><a href="https://github.com/DesignsMP/Lab_Reports/blob/master/Subnetting/Design%20Challenge/Final_design.png">Network Diagram</a></li>
+    <li><a href="https://github.com/DesignsMP/Lab_Reports/blob/master/Subnetting/Design%20Challenge/Final_design.png">Final Network Diagram</a></li>
   </ul>
   References:
   <br>
