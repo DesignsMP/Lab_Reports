@@ -32,7 +32,7 @@ each company as well as keeping the amount of subnets at a minimum to prevent to
   </ul>
   References:
   <br>
-    The only references we had with this lab was information given to us in class.<a href="https://github.com/DesignsMP/Lab_Reports/blob/master/Subnetting/Design%20Challenge/lab01_design_challenge.pdf">Lab_Worksheet</a>
+    The only references we had with this lab was information given to us in class. <a href="https://github.com/DesignsMP/Lab_Reports/blob/master/Subnetting/Design%20Challenge/lab01_design_challenge.pdf">Lab_Worksheet</a>
   
   Questions:
   <br>
