@@ -36,8 +36,12 @@ each company as well as keeping the amount of subnets at a minimum to prevent to
   
   Questions:
   <br>
-  A few things I am still confused on are
-  
+  A few things I am still confused on are:
+  <ol>
+  <li> How do companies know ahead of time how many IP addresses they will need to operate?</li>
+  <li> Are there programs that make it easier to create routing tables?</li>
+  <li> How to properly make a routing table?</li>
+  </ol>
   Conclusion and Reflection:
   <br>
   From this lab I found
