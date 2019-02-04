@@ -26,9 +26,10 @@ each company as well as keeping the amount of subnets at a minimum to prevent to
   </ol>
   Diagrams, flowcharts, and figures:
   <br>
-    <a href="https://github.com/DesignsMP/Lab_Reports/blob/master/Subnetting/Design%20Challenge/Design_Notes.png">Prototype Designs</a>
-    <a href="https://github.com/DesignsMP/Lab_Reports/blob/master/Subnetting/Design%20Challenge/Final_design.png">Network Diagram</a>
-  
+  <ul>
+    <li><a href="https://github.com/DesignsMP/Lab_Reports/blob/master/Subnetting/Design%20Challenge/Design_Notes.png">Prototype Designs</a></li>
+    <li><a href="https://github.com/DesignsMP/Lab_Reports/blob/master/Subnetting/Design%20Challenge/Final_design.png">Network Diagram</a></li>
+  </ul>
   References:
   <br>
     The only references we had with this lab was information given to us in class.<a>Lab_Worksheet</a>
