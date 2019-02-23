@@ -13,6 +13,7 @@
   <h4>Notes and Observations:</h4>
   
   <h4>Diagrams, flowcharts, and figures:</h4>
+  There were no diagrams or figures with this lab.
   <ul>
     
   </ul>
