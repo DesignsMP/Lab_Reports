@@ -26,7 +26,7 @@
       <li> Passwords</li>
   <li><a href="https://timothygruber.com/hyper-v-2/remotely-managing-hyper-v-server-in-a-workgroup-or-non-domain/">Remote Hyper V</a></li>
   <li><a href="https://www.petri.com/using-syspre-windows-10"> Syspre</a></li>
-   <li><a href="https://www.nakivo.com/blog/creating-configuring-vms-in-windows-server-2016-hyper-v/>Configure VM's</a></li>
+   <li><a href="https://www.nakivo.com/blog/creating-configuring-vms-in-windows-server-2016-hyper-v/">Configure VM's</a></li>
     </ul>
   <h4>Questions:</h4>
   A few things I am still confused on are:
