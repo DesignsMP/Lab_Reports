@@ -18,12 +18,15 @@
     
   </ul>
   <h4>References:</h4>
-    The only references we had with this lab was information given to us in class. This includes;
+    References were both given in class and found online. This includes;
     <ul>
       <li> Names for the computers and accounts</li>
       <li> IP address information</li>
       <li> Product keys</li>
       <li> Passwords</li>
+  <li><a href="https://timothygruber.com/hyper-v-2/remotely-managing-hyper-v-server-in-a-workgroup-or-non-domain/">Remote Hyper V</a></li>
+  <li><a href="https://www.petri.com/using-syspre-windows-10"> Syspre</a></li>
+   <li><a href="https://www.nakivo.com/blog/creating-configuring-vms-in-windows-server-2016-hyper-v/>Configure VM's</a></li>
     </ul>
   <h4>Questions:</h4>
   A few things I am still confused on are:
