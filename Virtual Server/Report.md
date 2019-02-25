@@ -11,7 +11,9 @@
     <li>Remote Desktop (to communicate with rack server without having  to access it directly)</li>
   </ul>
   <h4>Notes and Observations:</h4>
-  
+    <p>
+    In order to start this project we had to configure a rack server in order to store any virtual machines. We probably could have used a normal computer but the lab computers would erase any changes we made. In the configuration we set RAID from level 1 to level 0 in order to use all of the available disk space rather than mirroring. After that we deleted all partitions currently on the drive. Instructor used our lab as a test for using remote desktop, which was done outside of class. I do not fully understand how to enable remote desktop. After that we installed Hyper-V, while installing we used the username Hyper3\Administrator. We then accessed powershell in order to enable PSRemoting and WSMANCredSSP. This was used to create firewall rules for our domain and to allow us to securely use our credentials over the network. Then we assigned an ethernet port along with making changes to network manager and group policies. After all that was in order we pinged the server to see if we could make a connection from a remote desktop. Which we were able to on the first try this time.
+    </p>
   <h4>Diagrams, flowcharts, and figures:</h4>
   There were no diagrams or figures with this lab.
   <ul>
@@ -34,6 +36,7 @@
   <li> How did people come up with the idea of virtual machines?</li>
   <li> How many virual machines are commonly used in a business?</li>
   <li> What all can one do with a server?</li>
+  <li> What are all the different things you can do with remote desktop?</li>
   </ol>
   <h4>Conclusion and Reflection:</h4>
   
