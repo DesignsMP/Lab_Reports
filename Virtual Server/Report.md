@@ -39,4 +39,6 @@
   <li> What are all the different things you can do with remote desktop?</li>
   </ol>
   <h4>Conclusion and Reflection:</h4>
-  
+    <p>
+    To conclude this lab report I believe I did not fully learn the objectives. I now understand how to use Hyper-V to create virtual servers and virtual machines but I do not yet understand the purpose for doing so. I am sure there are many benefits to being able to manage several virtual machines but do not yet know the context of their use. I now know that depending of the network the IT department may have to jump through some hoops in order to get their virtual machines working based on network settings or firewalls. One last thing I'd like to add with knowing a little about the next lab is I hope their is an easy way to keep track of the heirarchy of all the machines and servers being managed by a company.
+    </p>
