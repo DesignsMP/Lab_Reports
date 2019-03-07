@@ -4,9 +4,6 @@
   <ul>
     <li>Pencil (to write down notes)</li>
     <li>Paper (to store notes)</li>
-    <li>Hyper-V (to manage all of our virtual machines)</li>
-    <li>Dell rack server (to store and run all of our virtual machines)</li>
-    <li>Windows Server 2016 (the purpose of the virtual server and tool for the next lab)</li>
     <li>Remote Desktop (to communicate with rack server without having  to access it directly)</li>
     <li>Active Directory (to manage groups, users, computers, and other devices)
   </ul>
