@@ -29,6 +29,8 @@
       <li> IP Addresses</li>
       <li> Product Keys</li>
       <li> Passwords</li>
+      <li><a href="https://blog.netwrix.com/2017/04/20/tutorial-learn-the-basics-of-active-directory/">Active Directory Tutorial</li>
+      <li><a href="https://www.netwrix.com/active_directory_group_management.html">Group Management</li>
     </ul>
   <h4>Questions:</h4>
   A few things I am still confused on are:
