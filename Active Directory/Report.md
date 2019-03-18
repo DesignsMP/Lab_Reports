@@ -11,10 +11,11 @@
   </ul>
   <h4>Notes and Observations:</h4>
     <p>
-    We changed the preferred dns server because the client 
-    We had to       so the client could login with a domain user.
-    We used active directory because of the heirarchial structure which allows easy controll over each aspect of the server. We also use it due to it being able to replicate after any changes to the domain controller, that way if one controller was to crash another would be promoted to domain controller and there would not be a noticable affect on the actual server.
-    Companies use virtual servers for several reasons including, saving money on multiple expenses, easier to transfer between hardware, and can be run with any type of OS that is either preferred or required by the company. When I say multiple expenses I mean, they money by not having to buy new hardware, they save money on electricity because with less amount of hardware they do not require as much cooling, and they save money by not having so many machines hooked up to the electricity.
+    During the lab we
+<br>We changed the preferred dns server because the client 
+<br>We had to       so the client could login with a domain user.
+<br>We used active directory because of the heirarchial structure which allows easy controll over each aspect of the server. We also use it due to it being able to replicate after any changes to the domain controller, that way if one controller was to crash another would be promoted to domain controller and there would not be a noticable affect on the actual server.
+<br>Companies use virtual servers for several reasons including, saving money on multiple expenses, easier to transfer between hardware, and can be run with any type of OS that is either preferred or required by the company. When I say multiple expenses I mean, they money by not having to buy new hardware, they save money on electricity because with less amount of hardware they do not require as much cooling, and they save money by not having so many machines hooked up to the electricity.
     </p>
   <h4>Diagrams, flowcharts, and figures:</h4>
   There were no diagrams or figures with this lab.
