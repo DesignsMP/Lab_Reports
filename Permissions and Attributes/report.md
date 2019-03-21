@@ -11,7 +11,7 @@
   </ul>
   <h4>Notes and Observations:</h4>
     <p>
-  In the lab we used Active Directory to create organizational units. We made a MAIN OU to hold all the other OUs which we named Marketing, HR, and Accounting. In these three OUs we had to have a total of five user accounts. In 
+  In the lab we used Active Directory to create organizational units. We made a MAIN OU to hold all the other OUs which we named Marketing, HR, and Accounting. In these three OUs we had to have a total of five user accounts. In Accounting we had Kevin Malone and Oscar Martinez. In HR we had Toby Flenderson, and in Marketing we had Jim Halpert and Dwight Schrute.
     </p>
   <h4>Diagrams, flowcharts, and figures:</h4>
   There were no diagrams or figures with this lab.
