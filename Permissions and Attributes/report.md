@@ -16,9 +16,9 @@
     </p>
   <h4>Diagrams, flowcharts, and figures:</h4>
   I did draw out a diagram to show the hierarchy of the MAIN OU along with the Folder locations.
-  <ul>
-  <li>![](Lab 4 Diagram.png)</li>
-  </ul>
+ 
+ ![Lab 4 Diagram](https://user-images.githubusercontent.com/31741807/54775264-9e768800-4bdb-11e9-98e6-e04c58afc072.png)
+
   <h4>References:</h4>
     References were both given in class and found online. This includes;
     <ul>
