@@ -1,6 +1,6 @@
 <h1>Domain Controller & Distributed File System</h1>
   <h4>Objectives:</h4>
-  <p>Our objective for this lab was .
+  <p>Our objective for this lab was to create a second domain controller for our domain and to replicate using the Distributed File system (DFS).
 </p>
   <h4>Materials</h4> 
   <ul>
@@ -25,8 +25,8 @@
       <li> IP Addresses</li>
       <li> Product Keys</li>
       <li> Passwords</li>
-      <li><a href=""></li>
-      <li><a href=""></li>
+      <li><a href="https://nedimmehic.org/2017/10/05/how-to-install-and-configure-distributed-file-system-dfs-2016-part-1/">Tutorial Part 1</li>
+      <li><a href="https://nedimmehic.org/2017/11/01/how-to-install-and-configure-distributed-file-system-dfs-2016-part-2/">Tutorial Part 2</li>
     </ul>
   <h4>Questions:</h4>
   A few things I am still confused on are:
