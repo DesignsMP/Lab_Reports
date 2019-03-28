@@ -33,10 +33,12 @@ We could not connect the servers together due to the fact that both had a namesp
     </p>
   <h4>Diagrams, flowcharts, and figures:</h4>
   There were no diagrams or figures with this lab but we did take snip clips of each stage in which we had to select something.
- ![unnamed](https://user-images.githubusercontent.com/31741807/55180009-acd22000-5156-11e9-92f4-698d1b176a78.png)
-    <li>![unnamed (1)](https://user-images.githubusercontent.com/31741807/55180015-ae034d00-5156-11e9-804f-4f3dfb5db568.png)</li>
-    <li>![unnamed (2)](https://user-images.githubusercontent.com/31741807/55180018-af347a00-5156-11e9-8ca7-7443710caf14.png)</li>
-  </ul>
+  <br>
+ ![unnamed](https://user-images.githubusercontent.com/31741807/55181047-cc6a4800-5158-11e9-960f-cca8d458aeab.png)
+
+ ![unnamed (1)](https://user-images.githubusercontent.com/31741807/55180015-ae034d00-5156-11e9-804f-4f3dfb5db568.png)
+ ![unnamed (2)](https://user-images.githubusercontent.com/31741807/55180018-af347a00-5156-11e9-8ca7-7443710caf14.png)
+
   <h4>References:</h4>
     References were both given in class and found online. This includes;
     <ul>
