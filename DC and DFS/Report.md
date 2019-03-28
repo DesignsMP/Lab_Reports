@@ -53,12 +53,12 @@ We could not connect the servers together due to the fact that both had a namesp
   <h4>Questions:</h4>
   A few things I am still confused on are:
   <ol>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
+  <li> Is there a standard way of using DFS or is it more of a companies preference?</li>
+  <li> How many servers can be assigned to one replication group before it starts causing problems?</li>
+  <li> Does the server/computer notify you when something has successfully been replicated?</li>
+  <li> Is this the way to combine merging companies information, or would there be a better method to do that?</li>
   </ol>
   <h4>Conclusion and Reflection:</h4>
     <p>
-    In conclusion .
+    In conclusion we followed the steps from lab 3 in order to create a second server. We then promoted it to be a second domain controller after installing active directory. From there we created a namespace in order to replicate files from either server. With the computer automatically setting up the replication group we could not adjust any settings or create any restrictions on what was being replicated between the two servers. I can see how this would be a useful tool in the business area but you would definitely want to be familiar with it before making any changes because I can see how a small mistake could mess up a whole companies work flow.
     </p>
