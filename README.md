@@ -1,4 +1,4 @@
-Table of Contents
+<h2>Table of Contents</h2>
 <br>
 <ol>
  <li> <a href="https://github.com/DesignsMP/Lab_Reports/tree/master/Design%20Challenge">Design Challenge</a></li>
