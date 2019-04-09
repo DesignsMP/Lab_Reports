@@ -1,4 +1,4 @@
-<h1>Domain Controller & Distributed File System</h1>
+<h1>Managing Group Policies</h1>
   <h4>Objectives:</h4>
   <p>Our objective for this lab was .
 </p>
