@@ -1,6 +1,6 @@
 <h1>Managing Group Policies</h1>
   <h4>Objectives:</h4>
-  <p>Our objective for this lab was .
+  <p>Our objective for this lab was to learn Group Policy terminology along with how to edit GPO's using the Group Policy Management Editor.
 </p>
   <h4>Materials</h4> 
   <ul>
