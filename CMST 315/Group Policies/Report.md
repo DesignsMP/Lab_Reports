@@ -1,6 +1,6 @@
-<h1>Managing Group Policies</h1>
+<h1>Virtual Cloud</h1>
   <h4>Objectives:</h4>
-  <p>Our objective for this lab was to learn Group Policy terminology along with how to edit GPO's using the Group Policy Management Editor.
+  <p>Our objective for this lab was to 
 </p>
   <h4>Materials</h4> 
   <ul>
@@ -27,6 +27,7 @@
      <li></li>
      <li></li>
      <li></li>
+     <li></li>
     </ol>
   <h4>Diagrams, flowcharts, and figures:</h4>
   There were no diagrams or figures with this lab.
@@ -41,7 +42,7 @@
       <li> Product Keys</li>
       <li> Passwords</li>
       <li> Mastering Windows Group Policy by Jordan Krause</li>
-      <li><a href=""></li>
+      <li><a href="https://portal.azure.com/#home"></li>
     </ul>
   <h4>Questions:</h4>
   A few things I am still confused on are:
