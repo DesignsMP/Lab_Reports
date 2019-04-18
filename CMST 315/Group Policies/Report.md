@@ -1,4 +1,4 @@
-<h1>Virtual Cloud</h1>
+<h1>Group Policy Management</h1>
   <h4>Objectives:</h4>
   <p>Our objective for this lab was to 
 </p>
@@ -42,7 +42,7 @@
       <li> Product Keys</li>
       <li> Passwords</li>
       <li> Mastering Windows Group Policy by Jordan Krause</li>
-      <li><a href="https://portal.azure.com/#home">Microsoft Azure</li>
+      <li><a href=""></li>
     </ul>
   <h4>Questions:</h4>
   A few things I am still confused on are:
