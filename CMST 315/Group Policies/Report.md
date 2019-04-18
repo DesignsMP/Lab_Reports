@@ -13,6 +13,21 @@
   <h4>Notes and Observations:</h4>
     <p>
     </p>
+    <ol
+     <li></li>      
+     <li></li>
+     <li></li>
+     <li></li>
+     <li></li>
+     <li></li>
+     <li></li>
+     <li></li>
+     <li></li>
+     <li></li>
+     <li></li>
+     <li></li>
+     <li></li>
+    </ol>
   <h4>Diagrams, flowcharts, and figures:</h4>
   There were no diagrams or figures with this lab.
   <ul>
