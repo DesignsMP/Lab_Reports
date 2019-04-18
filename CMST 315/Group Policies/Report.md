@@ -42,7 +42,7 @@
       <li> Product Keys</li>
       <li> Passwords</li>
       <li> Mastering Windows Group Policy by Jordan Krause</li>
-      <li><a href="https://portal.azure.com/#home"></li>
+      <li><a href="https://portal.azure.com/#home">Microsoft Azure</li>
     </ul>
   <h4>Questions:</h4>
   A few things I am still confused on are:
