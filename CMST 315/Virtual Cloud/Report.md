@@ -43,6 +43,7 @@
       <li> Passwords</li>
       <li> Mastering Windows Group Policy by Jordan Krause</li>
       <li><a href="https://portal.azure.com/#home">Microsoft Azure</li>
+      <li><a href="https://docs.microsoft.com/en-us/azure/virtual-machines/linux/">Linux Tutorial</li>
     </ul>
   <h4>Questions:</h4>
   A few things I am still confused on are:
