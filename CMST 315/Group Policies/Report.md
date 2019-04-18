@@ -42,7 +42,7 @@
       <li> Product Keys</li>
       <li> Passwords</li>
       <li> Mastering Windows Group Policy by Jordan Krause</li>
-      <li><a href=""></li>
+      <li>Group Policy by Jeremy Moskowitz</li>
     </ul>
   <h4>Questions:</h4>
   A few things I am still confused on are:
