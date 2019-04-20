@@ -27,7 +27,7 @@
      <li></li>
      <li> When testing new GPO's it is best to do it under an individual user or computer. In most cases people will create a user or computer specifically for testing. This is the best practice, that way if anything was wrong with the GPO it would not affect the whole system or all users. Once the bugs have been ironed out then they can distribute it out.</li>
      <li> BLocking any GPO with the deny permissions is very risky due to the inability for someone who has been denied to receive the GPO under any circumstances. If a group is denied, everyone in the group will be blocked.</li>
-     <li></li>
+     <li> WMI filters can be used to filter ...</li>
     </ol>
   <h4>Diagrams, flowcharts, and figures:</h4>
   There were no diagrams or figures with this lab.
