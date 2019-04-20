@@ -12,13 +12,13 @@
   </ul>
   <h4>Notes and Observations:</h4>
     <p>
+    In this lab...
     </p>
-    <ol
-     <li></li>      
+    <ol>     
      <li></li>
      <li></li>
      <li></li>
-     <li></li>
+     <li> The difference between a GPO being Not Configured compared to Disabled is...</li>
      <li> It is better to create GPO's rather than editing the default domain policy because with a GPO settings can be created for a specific user or computer, GPO's can be created for a specific set of settings, and it is easier to keep track of changes to a GPO rather than making all policy changes in a single location.</li>
      <li> As I said in the last response, it is best to keep the number of changes in a GPO to a minimum in order to keep track of all the changes/settings it would affect. If you have a GPO for each setting change, when you want to change that setting you would know exactly which GPO to modify.</li>
      <li> The purpose for gpudpate is to update the current user on the most recent GPO changes, and gpresult displays the GPO's that have been created and if they are in affect.</li>
