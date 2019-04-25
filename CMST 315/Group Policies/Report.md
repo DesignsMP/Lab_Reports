@@ -12,7 +12,7 @@
   </ul>
   <h4>Notes and Observations:</h4>
     <p>
-    In this lab...
+    In this lab we set two goals in order to test our ability to control Group Policies. The first was to set the wallpaper for all members in our Main Organizational Unit. Our group decided to take it a step further and set a different wallpaper for each OU within our Main OU. To create a new GPO we opened the Server Manager -> open tools -> select group policy management. From here we clicked on Group Policy Objects -> create new GPO -> named it "Set Wallpaper to Shockwave -> went to User Configuration -> Administration Template -> Desktop -> Desktop -> Desktop Wallpaper -> Select Enable -> insert path "\\WINSERVER3B\Wallpaper\Shockwave Wallpaper.png" -> selected style to "fit". We then had the link the OU by first selecting the Marketing OU under Main -> right clicked -> select "Link an Existing GPO" -> selected "Set Wallpaper to Shockwave" and then tested the connection.
     </p>
     <ol>     
      <li> Its important to know how to use group policies when running an Active directory environment because its the technique used to provide security and to make sure users have access to the applications they need and do not have access to applications they do not need. It also helps organize a companies file sharing access in order to spread information over a large number of people.</li>
