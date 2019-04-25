@@ -27,7 +27,7 @@
      <li> User configuration settings would need to be disabled in the event of ...</li>
      <li> When testing new GPO's it is best to do it under an individual user or computer. In most cases people will create a user or computer specifically for testing. This is the best practice, that way if anything was wrong with the GPO it would not affect the whole system or all users. Once the bugs have been ironed out then they can distribute it out.</li>
      <li> BLocking any GPO with the deny permissions is very risky due to the inability for someone who has been denied to receive the GPO under any circumstances. If a group is denied, everyone in the group will be blocked.</li>
-     <li> WMI filters can be used to filter ...</li>
+     <li> WMI filters can be used to filter GPO's even further by looking at information available on the computer and seeing if the GPO meets the criteria. An example of this would be for a GPO to only be enforced if a computer has more than ten gigabytes of available space.</li>
     </ol>
   <h4>Diagrams, flowcharts, and figures:</h4>
   There were no diagrams or figures with this lab.
@@ -47,10 +47,10 @@
   <h4>Questions:</h4>
   A few things I am still confused on are:
   <ol>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
+  <li> Are there any instances when a company would have Active Directory but not use group policies?</li>
+  <li> Are there other programs to choose from for this type of application besides Active Directory></li>
+  <li> What was the common practice when it came to sharing files and enforcing rules before Active Directory was implemented?</li>
+  <li> Due to how strong the consequences are, what is the best practice for denying sharing permissions?</li>
   </ol>
   <h4>Conclusion and Reflection:</h4>
     <p>
