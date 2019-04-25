@@ -15,9 +15,9 @@
     In this lab...
     </p>
     <ol>     
-     <li> Its important to know how to use group policies when running an Active directory environment because...</li>
-     <li> The levels of hierarchy in group policies are local domain, ...,..., Domain...</li>
-     <li> The default domain policy GPO is initially in charge of ...</li>
+     <li> Its important to know how to use group policies when running an Active directory environment because its the technique used to provide security and to make sure users have access to the applications they need and do not have access to applications they do not need. It also helps organize a companies file sharing access in order to spread information over a large number of people.</li>
+     <li> The levels of hierarchy in group policies are local policies, Site policies, Domain policies, and Organizational Unit policies. These work together by policies being set locally either by the user or computer are read first, these would then be overwritten for any policies written for a specific site, if the structure included any, next the domain's policies would be set next and overwrite any of the previous policies, finally any policies set for a specific organizational unit will overwrite all previous policies written.</li>
+     <li> The default domain policy GPO is initially in charge of all users in the domain, it is typically used to control password and other security policies.</li>
      <li> The difference between a GPO being Not Configured compared to Disabled is...</li>
      <li> It is better to create GPO's rather than editing the default domain policy because with a GPO settings can be created for a specific user or computer, GPO's can be created for a specific set of settings, and it is easier to keep track of changes to a GPO rather than making all policy changes in a single location.</li>
      <li> As I said in the last response, it is best to keep the number of changes in a GPO to a minimum in order to keep track of all the changes/settings it would affect. If you have a GPO for each setting change, when you want to change that setting you would know exactly which GPO to modify.</li>
@@ -42,7 +42,7 @@
       <li> Product Keys</li>
       <li> Passwords</li>
       <li> Mastering Windows Group Policy by Jordan Krause</li>
-      <li>Group Policy by Jeremy Moskowitz</li>
+      <li> Group Policy by Jeremy Moskowitz</li>
     </ul>
   <h4>Questions:</h4>
   A few things I am still confused on are:
