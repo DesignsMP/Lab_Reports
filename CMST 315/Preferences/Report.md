@@ -20,11 +20,11 @@
      <li></li>
     </ol>
   <h4>Diagrams, flowcharts, and figures:</h4>
-  Here are some figures that were mentioned in the observations..
-  <ul>
-    <img src="![Lab 7 lines](https://user-images.githubusercontent.com/31741807/56866655-59473200-69a1-11e9-83ca-e9f235bce689.png)">
-    <img src="![Lab 7 Idle](https://user-images.githubusercontent.com/31741807/56866656-59dfc880-69a1-11e9-90af-aa6d3c204d1f.png)">
-  </ul>
+  Here are some figures that were mentioned in the observations.
+  
+    ![Lab 7 lines](https://user-images.githubusercontent.com/31741807/56866655-59473200-69a1-11e9-83ca-e9f235bce689.png)
+    ![Lab 7 Idle](https://user-images.githubusercontent.com/31741807/56866656-59dfc880-69a1-11e9-90af-aa6d3c204d1f.png)
+    
   <h4>References:</h4>
     References were both given in class and found online. This includes;
     <ul>
