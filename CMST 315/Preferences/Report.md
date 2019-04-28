@@ -13,11 +13,21 @@
   <h4>Notes and Observations:</h4>
     <p>
     </p>
-    <ol
+    <ol>
      <li> The main differences between a GPO policy and a preference is the fact that policies can disable certain applications and settings for users, meanwhile a preference would hide those settings but the user could re-enable them if they so choosed. Another would be that policies can be set at both the domain and local level while preferences can only be set at the domain level.</li>      
-     <li> </li>
-     <li></li>
-     <li></li>
+     <li> The administrative templates are more flexible than other group policies due to the fact that they pull information from templates on the local computer. Whenever policies are changed those changes are stored in a register key this way all changes are implemented as soon as the computer refreshes.</li>
+     <li> Some of the computer configuration settings that can be changed would include:
+          <ul>
+            <li> Having specific applications open upon login</li>
+            <li> Control a screen based on idle time</li>
+          </ul>
+     </li>
+     <li> Some of the user configuration settings that can be changed would include:
+          <ul>
+            <li> Having specific backgrounds apply to an OU or User</li>
+            <li> Require a password change after a specified amount of time</li>
+          </ul>
+     </li>
     </ol>
   <h4>Diagrams, flowcharts, and figures:</h4>
   Here are some figures that were mentioned in the observations.
