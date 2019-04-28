@@ -22,8 +22,12 @@
   <h4>Diagrams, flowcharts, and figures:</h4>
   Here are some figures that were mentioned in the observations.
   
-    ![Lab 7 lines](https://user-images.githubusercontent.com/31741807/56866655-59473200-69a1-11e9-83ca-e9f235bce689.png)
-    ![Lab 7 Idle](https://user-images.githubusercontent.com/31741807/56866656-59dfc880-69a1-11e9-90af-aa6d3c204d1f.png)
+    
+   ![Lab 7 lines](https://user-images.githubusercontent.com/31741807/56866655-59473200-69a1-11e9-83ca-e9f235bce689.png)
+   <p>Lines that if green would push preferences to the computer, and if red would not manipulate any settings.</p>
+   
+   ![Lab 7 Idle](https://user-images.githubusercontent.com/31741807/56866656-59dfc880-69a1-11e9-90af-aa6d3c204d1f.png)
+   <p>Screen viewed when enabling the computer screen to go to sleep if activity was idle for 60 seconds.</p>
     
   <h4>References:</h4>
     References were both given in class and found online. This includes;
