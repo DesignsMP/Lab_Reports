@@ -42,20 +42,15 @@
   <h4>References:</h4>
     References were both given in class and found online. This includes;
     <ul>
-      <li> Names of computers and accounts</li>
-      <li> IP Addresses</li>
-      <li> Product Keys</li>
-      <li> Passwords</li>
       <li> Mastering Windows Group Policy by Jordan Krause</li>
-      <li><a href=""></li>
     </ul>
   <h4>Questions:</h4>
   A few things I am still confused on are:
   <ol>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
+  <li> Which user configuration settings are typically left as preferences rather than actual policies?</li>
+  <li> What are some examples of computer configuration settings? I'm sure there's a lot more than what we had mentioned in class.</li>
+  <li> Can the computer configuration settings be used to optimize the computers performance?</li>
+  <li> What is the easiest way to keep track of all of the policies and preferences created in a workplace environment? Do they typically have the two separated?</li>
   </ol>
   <h4>Conclusion and Reflection:</h4>
     <p>
