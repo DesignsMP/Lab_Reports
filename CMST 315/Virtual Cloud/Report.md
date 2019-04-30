@@ -15,9 +15,24 @@
     <p>
     </p>
     <ol>
-     <li></li>      
-     <li></li>
-     <li></li>
+     <li>
+        Advantages:
+            <ul>
+              <li> Good</li>
+            </ul>
+        Disadvantages:
+            <ul>
+              <li> Bad</li>
+            </ul>
+     </li>      
+     <li> Businesses need to consider ... before they switch IT to the cloud.</li>
+     <li> Examples of built-in Azure configurations and services include:
+          <ul>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+          </ul>
+     </li>
     </ol>
   <h4>Diagrams, flowcharts, and figures:</h4>
   Here is an image to demonstrate how I got the web-server up and running.
