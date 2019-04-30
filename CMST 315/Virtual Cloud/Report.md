@@ -7,8 +7,9 @@
     <li>Pencil (to write down notes)</li>
     <li>Paper (to store notes)</li>
     <li>Remote Desktop (to communicate with rack server without having  to access it directly)</li>
-    <li>Active Directory (to manage groups, users, computers, and other devices)
-    <li>Computers (to access applications such as active directory)</li>
+    <li>Microsoft Azure (to create, configure, and run cloud-based virtual machines)
+    <li>Bash ( to download, update, and edit the virtual machines/ web-server)
+    <li>Computers (to access applications such as Microsoft Azure)
   </ul>
   <h4>Notes and Observations:</h4>
     <p>
