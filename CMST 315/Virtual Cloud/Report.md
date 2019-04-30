@@ -26,7 +26,7 @@
   ![Capture](https://user-images.githubusercontent.com/31741807/56990432-aa4e5600-6b5a-11e9-9356-530b8ede58b9.PNG)
 
   <h4>References:</h4>
-    References were both given in class and found online. This includes;
+    References could be found online with these links;
     <ul>
       <li><a href="https://portal.azure.com/#home">Microsoft Azure</li>
       <li><a href="https://docs.microsoft.com/en-us/azure/virtual-machines/linux/">Linux Tutorial</li>
