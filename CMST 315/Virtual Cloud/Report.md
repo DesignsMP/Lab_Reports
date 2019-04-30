@@ -49,10 +49,10 @@
   <h4>Questions:</h4>
   A few things I am still confused on are:
   <ol>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
+  <li> Who was the first to implement a cloud based server?</li>
+  <li> Would the cloud work well for something like a video game  server?</li>
+  <li> Does Apple have any iOS cloud servers?</li>
+  <li> Can a cloud server contain cloud servers?/li>
   </ol>
   <h4>Conclusion and Reflection:</h4>
     <p>
