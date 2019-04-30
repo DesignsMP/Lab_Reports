@@ -1,6 +1,6 @@
 <h1>Virtual Cloud</h1>
   <h4>Objectives:</h4>
-  <p>Our objective for this lab was to 
+  <p>Our objective for this lab was to use Microsoft Azure to create a Linux or Windows cloud web-server.
 </p>
   <h4>Materials</h4> 
   <ul>
@@ -19,18 +19,14 @@
      <li></li>
     </ol>
   <h4>Diagrams, flowcharts, and figures:</h4>
-  There were no diagrams or figures with this lab.
+  Here is an image to demonstrate how I got the web-server up and running.
+  <br>
   
   ![Capture](https://user-images.githubusercontent.com/31741807/56990432-aa4e5600-6b5a-11e9-9356-530b8ede58b9.PNG)
 
   <h4>References:</h4>
     References were both given in class and found online. This includes;
     <ul>
-      <li> Names of computers and accounts</li>
-      <li> IP Addresses</li>
-      <li> Product Keys</li>
-      <li> Passwords</li>
-      <li> Mastering Windows Group Policy by Jordan Krause</li>
       <li><a href="https://portal.azure.com/#home">Microsoft Azure</li>
       <li><a href="https://docs.microsoft.com/en-us/azure/virtual-machines/linux/">Linux Tutorial</li>
     </ul>
