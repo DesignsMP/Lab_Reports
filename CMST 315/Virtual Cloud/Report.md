@@ -20,7 +20,7 @@
     </ol>
   <h4>Diagrams, flowcharts, and figures:</h4>
   Here is an image to demonstrate how I got the web-server up and running.
-  <br>
+  <br><br><br>
   
   ![Capture](https://user-images.githubusercontent.com/31741807/56990432-aa4e5600-6b5a-11e9-9356-530b8ede58b9.PNG)
 
