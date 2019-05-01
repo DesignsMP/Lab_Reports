@@ -18,19 +18,21 @@
      <li>
         Advantages:
             <ul>
-              <li> Good</li>
+              <li> Scalability: cloud infrastructure size is based on the businesses needs</li>
+              <li> Tools: when using the cloud most services offer built-in tools that can help acheive the companies needs</li>
             </ul>
         Disadvantages:
             <ul>
-              <li> Bad</li>
+              <li> Downtime: it may take awhile to get a cloud server back up and running</li>
+              <li> Vulnerability: due to being solely on the web cloud services have a higher vulnerability to cyber attacks</li>
             </ul>
      </li>      
-     <li> Businesses need to consider ... before they switch IT to the cloud.</li>
+     <li> Businesses need to consider which cloud service provider they want to go with whether that be Microsoft Azure, Google Cloud Services, and AWS. Another thing to consider is disaster recovery, if the devices containing their cloud services were to be damaged or lose power there has to be a back-up plan or risk losing all of the information that had been stored in the cloud. These are a few things to think of before they switch IT to the cloud.</li>
      <li> Examples of built-in Azure configurations and services include:
           <ul>
-            <li> </li>
-            <li> </li>
-            <li> </li>
+            <li> Migration guides</li>
+            <li> Azure media player</li>
+            <li> Visual Studio Code integration</li>
           </ul>
      </li>
     </ol>
@@ -52,7 +54,7 @@
   <li> Who was the first to implement a cloud based server?</li>
   <li> Would the cloud work well for something like a video game  server?</li>
   <li> Does Apple have any iOS cloud servers?</li>
-  <li> Can a cloud server contain cloud servers?/li>
+  <li> Can a cloud server contain cloud servers?</li>
   </ol>
   <h4>Conclusion and Reflection:</h4>
     <p>
