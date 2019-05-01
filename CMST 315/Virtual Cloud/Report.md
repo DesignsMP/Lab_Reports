@@ -13,6 +13,7 @@
   </ul>
   <h4>Notes and Observations:</h4>
     <p>
+      For this lab we were to set up a web-server using cloud services offered by Microsoft Azure. We had the choice of creating a Windows or Linux web-server. Due to having never worked with the Linux OS before my group decided to create a Linux server. Using the Microsoft Azure tutorial we first created a virtual machine named "myVM" which each person created their own. We then created a group to store all of our resources which we named "myResourceGroupVM" based on the tutorial. We later created another virtual machine due to the tutorial mentioning it named "myResourceGroupDisk" which we later found out was not necessary to get the web-server running. Using bash we connected the VM with ssh using the public IP address Microsoft provided us. Next was defining the size of the VM which I struggled with at first. I wanted the VM to have a larger disk space due to thinking more is better, I later find out that since the size I chose used four cores I could not use it for this lab. With the free trial version of Azure the user is only allowed a maximum of four cores. I was using all four cores for the VM and I had not created my disk yet which required a minimum of two cores. I decided to down size to a size that only used two cores and was still bigger than the original size of my VM. This allowed the disks two cores to work and reaching my limit of four cores. From here I started the virtual machine in which I did not stop until after the lab was over.
     </p>
     <ol>
      <li>
