@@ -11,23 +11,45 @@
   </ul>
   <h4>Notes and Observations:</h4>
     <p>
-      
+      Test Text
     </p>
     <ol>
-
+      <li></li>
+      <li></li>
+      <li></li> 
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li> 
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li> 
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li> 
+      <li></li>
     </ol>
   <h4>Diagrams, flowcharts, and figures:</h4>
   Here is an image to demonstrate how we set up our Active Directory structure and our file structure.
   <br><br><br>
-  
-  ![Capture](https://user-images.githubusercontent.com/31741807/56990432-aa4e5600-6b5a-11e9-9356-530b8ede58b9.PNG)
+ Active Directory Structure  
+ 
+ ![Active Directory Structure](https://user-images.githubusercontent.com/31741807/58062539-4ce96b80-7b40-11e9-83ea-1e79ad6873a3.png)
+ <br>File Structure
+ 
+ ![File Structure](https://user-images.githubusercontent.com/31741807/58062625-95088e00-7b40-11e9-8812-ffa87487b91e.PNG)
 
   <h4>References:</h4>
-    References could be found online with these links;
-    <ul>
-      <li><a href="https://portal.azure.com/#home">Microsoft Azure</li>
-      <li><a href="https://docs.microsoft.com/en-us/azure/virtual-machines/linux/">Linux Tutorial</li>
-    </ul>
+    References for this lab include the case study and the tasks required to demonstrate our skills;
+  
+  
+   [JQ Adams.pdf](https://github.com/DesignsMP/Lab_Reports/files/3200405/JQ.Adams.pdf)
+   
+   [lab_JQA_tasks (1).pdf](https://github.com/DesignsMP/Lab_Reports/files/3200406/lab_JQA_tasks.1.pdf)
+
+   
   <h4>Questions:</h4>
   A few things I am still confused on are:
   <ol>
