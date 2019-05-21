@@ -10,5 +10,5 @@
  <li><a href="https://github.com/DesignsMP/Lab_Reports/tree/master/CMST%20315/Group%20Policies">Group Policies</a></li>
  <li><a href="https://github.com/DesignsMP/Lab_Reports/tree/master/CMST%20315/Preferences">Preferences</a></li>
  <li><a href="https://github.com/DesignsMP/Lab_Reports/tree/master/CMST%20315/Virtual%20Cloud">Virtual Cloud Web-server</a></li>
- <li><a href=""> J.Q. Adams Case Study</a></li>
+ <li><a href="https://github.com/DesignsMP/Lab_Reports/tree/master/CMST%20315/J.Q.%20Adams%20Case%20Study"> J.Q. Adams Case Study</a></li>
 </ol>
