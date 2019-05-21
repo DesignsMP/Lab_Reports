@@ -47,7 +47,7 @@
   
    [JQ Adams.pdf](https://github.com/DesignsMP/Lab_Reports/files/3200405/JQ.Adams.pdf)
    
-   [lab_JQA_tasks (1).pdf](https://github.com/DesignsMP/Lab_Reports/files/3200406/lab_JQA_tasks.1.pdf)
+   [lab_JQA_tasks.pdf](https://github.com/DesignsMP/Lab_Reports/files/3200406/lab_JQA_tasks.1.pdf)
 
    
   <h4>Questions:</h4>
