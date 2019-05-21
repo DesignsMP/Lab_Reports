@@ -14,8 +14,20 @@
       Test Text
     </p>
     <ol>
-      <li></li>
-      <li> Some of the assumptions that were made for this cases study include: president was to be separate from vice presidents, I.S was to remain separate from the rest of the users, users should be placed under the server’s OU that they would use the most</li>
+      <li> Our initial questions we would have asked the company towards the beginning of the project include:</li>  
+      <ul>
+          <li>What is the current structure organization?</li> 
+          <li>What resources need to be shared and to whom?</li> 
+          <li>What is the users home location?</li> 
+          <li>What department is each employee a member of?</li> 
+          <li>What is the business process and business goal?</li> 
+          <li>Do they plan to grow in the near future?</li> 
+          <li>What locations to users typically log in from?</li> 
+          <li>How many subnets/ what is the IP address range?</li> 
+          <li>What is the topology of their network?</li> 
+          <li>What firewalls do they have in place?</li> 
+      </ul>
+<li> Some of the assumptions that were made for this cases study include: president was to be separate from vice presidents, I.S was to remain separate from the rest of the users, users should be placed under the server’s OU that they would use the most</li>
       <li> For file strucutre see attached document in the diagram section.</li> 
       <li> The naming policy for user accounts was the user’s first initial followed by their last name.  If they did not have a name it was the first initial for their department followed by employee and then an ID number.</li>
       <li> In order delegate control we right clicked on the production OU and chose the option to “delegate control.” From here we followed the steps in setting up the control such as what abilities are granted. In this case the vice president was to only have control over the user accounts in the OU and nothing else. The final step was to choose who received the delegate which was granted to AShinohara.</li>
@@ -29,7 +41,7 @@
       <li> When it came to Chrome Enterprise I am unsure how to do distribute it due to the fact that we installed chrome enterprise on a drive but did not distribute it to the client computer due to the issue we had with one of our GPOs. From what Matt told me it sounded like you would distribute it by first adding it to the Active Directory and then from there you would share it through a GPO.</li>
       <li> When it comes to roaming profiles, roaming profiles can be useful for those who work outside of the office. Through roaming profiles, although they may not be using a company owned computer, all of the same GPOs will be applied when the user logs into their account. This is very important when it comes to maintaining the security of a companies stored information.</li>
       <li> The biggest problem our group ran into we were never able to solve. Somehow, while I was limiting user’s access to the desktop, I blocked the use of the search bar and start menu. This became a crippling issue because it meant we could not test any of our GPOs that were to be applied to the users. To this day I still cannot think of any reason one of my GPOs would have blocked so much access without a probable cause. I checked all of my policies and reversed the only one I could think of that would have created these restrictions.</li> 
-      <li> </li>
+      <li> Conclusion can be found at the bottom of the page.</li>
     </ol>
   <h4>Diagrams, flowcharts, and figures:</h4>
   Here is an image to demonstrate how we set up our Active Directory structure and our file structure.
@@ -48,6 +60,8 @@
    [JQ Adams.pdf](https://github.com/DesignsMP/Lab_Reports/files/3200405/JQ.Adams.pdf)
    
    [lab_JQA_tasks.pdf](https://github.com/DesignsMP/Lab_Reports/files/3200406/lab_JQA_tasks.1.pdf)
+   
+   [Questions.pdf](https://github.com/DesignsMP/Lab_Reports/files/3200450/Report.pdf)
 
    
   <h4>Questions:</h4>
