@@ -7,7 +7,8 @@
     <li>Pencil (to write down notes)</li>
     <li>Paper (to store notes)</li>
     <li>Remote Desktop (to communicate with rack server without having  to access it directly)</li>
-    <li>Computers (to access applications such as Active directory)
+    <li>Computers (to access applications such as Active directory)</li>
+    <li>Draw.io (to create the diagram for our Active Directory structure)</li>
   </ul>
   <h4>Notes and Observations:</h4>
     <p>
