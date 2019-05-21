@@ -12,7 +12,7 @@
   </ul>
   <h4>Notes and Observations:</h4>
     <p>
-      Test Text
+      From my point of view of this project, we first thought about what questions we would ask if this was a real world experience. Next I stayed up into 1:00 a.m. prior to the next class period creating the file and Active Directory structure. I also tried to come up with what global and domain local groups we might need to give each user the correct level of access. The next step was to implement the structure I had created. Bryan was tasked with using a template folder structure I created in order to start sharing each folder, I was tasked with rewriting our previous Active Directory structure to support our needs, and Matt was tasked with getting the printer set up, looking into how to install and distribute the Chrome Enterprise, and set up a few more client computers, that way more than one of us can be testing the GPOs later. Once I had all of the OU's, Global groups, Domain local groups, and the users, I tasked Bryan with setting up a home directory for each user while I set off to create GPOs in order set restrictions for the client users.
     </p>
     <ol>
       <li> Our initial questions we would have asked the company towards the beginning of the project include:</li>  
