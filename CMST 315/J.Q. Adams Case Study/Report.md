@@ -12,7 +12,16 @@
   </ul>
   <h4>Notes and Observations:</h4>
     <p>
-      From my point of view of this project, we first thought about what questions we would ask if this was a real world experience. Next I stayed up into 1:00 a.m. prior to the next class period creating the file and Active Directory structure. I also tried to come up with what global and domain local groups we might need to give each user the correct level of access. The next step was to implement the structure I had created. Bryan was tasked with using a template folder structure I created in order to start sharing each folder, I was tasked with rewriting our previous Active Directory structure to support our needs, and Matt was tasked with getting the printer set up, looking into how to install and distribute the Chrome Enterprise, and set up a few more client computers, that way more than one of us can be testing the GPOs later. Once I had all of the OU's, Global groups, Domain local groups, and the users, I tasked Bryan with setting up a home directory for each user while I set off to create GPOs in order set restrictions for the client users.
+      From my point of view of this project, we first thought about what questions we would ask if this was a real world experience. Next I stayed up into 1:00 a.m. prior to the next class period creating the file and Active Directory structure. I also tried to come up with what global and domain local groups we might need to give each user the correct level of access. The next step was to implement the structure I had created. Bryan was tasked with using a template folder structure I created in order to start sharing each folder, I was tasked with rewriting our previous Active Directory structure to support our needs, and Matt was tasked with getting the printer set up, looking into how to install and distribute the Chrome Enterprise, and set up a few more client computers, that way more than one of us can be testing the GPOs later. Once I had all of the OU's, Global groups, Domain local groups, and the users, I tasked Bryan with setting up a home directory for each user while I set off to create GPOs in order set restrictions for the client users. Using the Group Policy book I set up the GPOs in this order:
+  <ol>
+    <li> Password Policy (password age has a maximum of one day, minimum of eight characters)</li>
+    <li> Lockout Policy (after three failed attempts the user must wait five minutes before they may try again</li>
+    <li> Disk Quota (maximum amount of 100MB and received a warning at 80MB)</li>
+    <li> Redirect Directory (the my documents folder would redirect to the users home directory instead)</li>
+    <li> Audit and Log (audits and logs all failed attempts to log in)</li>
+    <li> Desktop Access (limit the amount of access the user has on their desktop)</li>
+  </ol>
+ For the most part the GPOs were going good. Through the book I learned how to use group policies to create disk quotas, which I later learned can also be create from the folders properties. The only issue I had with the GPO was determining which folder it restricted to 100MB. The audit was reviewed and it did in fact show when someone failed to login into a client user account. I never got the password or lockout policies to take effect. The home directories may not have been set up correctly so I never got the redirect GPO to make any changes when file exploring. The final thing I want to mention before talking about the biggest set back of the project was the fact that we were able to figure out how to delegate control of production user accounts to Al Shinohara but only with the help of our instructor. Now for the IT disaster of the century, for whatever reason, while I was limited desktop access, I somehow managed to lockout the user from both the start menu and search bar. This was crippling because it meant we could not test any of our GPOs do to being unable to access the needed material. Even with the instructors help we were unable to determine what exactly the GPO had did in order to prevent this kind of access. Due to this issue we were unable to distribute the Chrome Enterprise, we could not test to see if the printer was in fact shared and usable by member of the marketing and accounting global groups. From this I have learned to both, double check what affects a GPO will have on the user/computer before it is put into action, and to have more than one client computer to test with. With the ability to test with two different computers, if something goes wrong with one of them we can look at the one that still works to see which settings are causing the errors.
     </p>
     <ol>
       <li> Our initial questions we would have asked the company towards the beginning of the project include:</li>  
@@ -55,8 +64,8 @@
  ![File Structure](https://user-images.githubusercontent.com/31741807/58062625-95088e00-7b40-11e9-8812-ffa87487b91e.PNG)
 
   <h4>References:</h4>
-    References for this lab include the case study and the tasks required to demonstrate our skills;
-  
+    References for this lab include the case study and the tasks required to demonstrate our skills, along with a book over group policies;
+   Group Policy by Jeremy Moskowitz
   
    [JQ Adams.pdf](https://github.com/DesignsMP/Lab_Reports/files/3200405/JQ.Adams.pdf)
    
