@@ -15,7 +15,7 @@
     </p>
     <ol>
       <li> Our initial questions we would have asked the company towards the beginning of the project include:</li>  
-      <ul>
+      <ol>
           <li>What is the current structure organization?</li> 
           <li>What resources need to be shared and to whom?</li> 
           <li>What is the users home location?</li> 
@@ -26,7 +26,7 @@
           <li>How many subnets/ what is the IP address range?</li> 
           <li>What is the topology of their network?</li> 
           <li>What firewalls do they have in place?</li> 
-      </ul>
+      </ol>
 <li> Some of the assumptions that were made for this cases study include: president was to be separate from vice presidents, I.S was to remain separate from the rest of the users, users should be placed under the server’s OU that they would use the most</li>
       <li> For file strucutre see attached document in the diagram section.</li> 
       <li> The naming policy for user accounts was the user’s first initial followed by their last name.  If they did not have a name it was the first initial for their department followed by employee and then an ID number.</li>
